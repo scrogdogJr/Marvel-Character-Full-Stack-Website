@@ -1,0 +1,4 @@
+.carousel-item:hover .carousel-caption{
+    text-decoration: underline;
+    cursor: pointer;
+}
